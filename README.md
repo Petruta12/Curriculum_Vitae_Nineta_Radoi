@@ -1,3 +1,6 @@
 # Curriculum_Vitae_Nineta_Radoi
 ![](nineta.jpg)
-img src="nineta.jpg" alt="avatar" class="avatar"
+
+
+![](certificates_TAU-43fd29d9.png)
+
